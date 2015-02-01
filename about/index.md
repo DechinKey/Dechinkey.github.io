@@ -13,7 +13,7 @@ comments: yes
 
 感谢开源，为我们的生活带来的无限的乐趣……
 
-![profile](media/about.jpg)
+![profile](../media/dw.jpg)
 
 ----
 
