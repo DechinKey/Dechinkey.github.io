@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dd,ul,ol,pre,fieldset,legend,button,input,textarea,th,td{ margin:0; padding:0; }
-body{ font-family:"Microsoft YaHei","微软雅黑",Arial,Verdana,Sans-Serif; color:#000; position:relative; width:100%; height:100%; margin:0 auto; background-color: #95AFBA; font-size:10px; }
+body{ font-family:"Microsoft YaHei","微软雅黑",Arial,Verdana,Sans-Serif; color:#000; position:relative; width:100%; height:100%; margin:0 auto; background-color: ##fbfaf9; font-size:10px; }
 html{ width:100%; height:100%; }
 h1{ font-size:2.2em; color:#000; }
 h2{ font-size:1.6em; color:#111; }
@@ -39,7 +39,7 @@ object,iframe{ display:block; margin:4px auto; }
 /*内容*/
 #main{ margin-left: 180px; }
 .header{ padding:7px 0; border-bottom: 1px solid #ccc; }
-.content{ font-size:1.6em; line-height:2; padding: 5px 0; }
+.content{ font-size:1.6em; line-height:2; padding: 5px 0; background-color: #fff;box-shadow: 0 0 .5em #999;}
 .content h1{ padding:5px 0; }
 .content img{ max-width:98%; display:block; margin:10px 0; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);padding: 0.5%;background-color: #fff;border: 1px solid #CCC;}
 .listing-item{ list-style-type:none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 90%; color: #D00; }
