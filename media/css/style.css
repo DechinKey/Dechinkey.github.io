@@ -39,7 +39,7 @@ object,iframe{ display:block; margin:4px auto; }
 /*内容*/
 #main{ margin-left: 180px; }
 .header{ padding:7px 0; border-bottom: 1px solid #ccc; }
-.content{ font-size:1.6em; line-height:2; padding: 5px 0; background-color: #fff;box-shadow: 0 0 .5em  #999;padding: 1.556em 2em 2em;}
+.content{ font-size:1.6em; line-height:2; padding: 5px 0; background-color: #fff;box-shadow: 0 0 .5em  #999;padding: 1.556em 2em 2em;max-width: 48em;}
 .content h1{ padding:5px 0; }
 .content img{ max-width:98%; display:block; margin:10px 0; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);padding: 0.5%;background-color: #fff;border: 1px solid #CCC;}
 .listing-item{ list-style-type:none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; width: 90%; color: #D00; }
